@@ -11,3 +11,8 @@
 Permettre à l'équipe IT d'**exploiter, maintenir et restaurer** l'infrastructure de manière autonome, grâce à des procédures claires, reproductibles et à jour.
 
 ---
+
+## 🔗 Voir aussi
+
+- 🖼️ [Schémas](../Schema/README.md)
+- 📎 [Ressources](../Ressources/README.md)
