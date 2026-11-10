@@ -5,9 +5,6 @@ Voici le projet de fin d'année "Apex Genomics" de Lily Boigeaud et Wassim Jello
 
 > Une infrastructure segmentée, hautement disponible et supervisée, reliant deux sites pour une société de biotechnologie spécialisée dans la recherche d'antibiotiques par intelligence artificielle.
 
-![Statut](https://img.shields.io/badge/statut-en%20cours-blue)
-![Haute disponibilité](https://img.shields.io/badge/haute%20disponibilit%C3%A9-activ%C3%A9e-brightgreen)
-![Open Source](https://img.shields.io/badge/stack-open%20source-orange)
 
 ---
 
